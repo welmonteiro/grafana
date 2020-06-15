@@ -138,16 +138,16 @@
     "longitude" : -38.5011
   },
   {
-    "key" : "MA",
-    "name" : "Maranhão",
-    "latitude" : -2.53874,
-    "longitude" : -44.2825
+    "key" : "IB",
+    "name" : "UTE - Camaçari",
+    "latitude" : -12.620254,
+    "longitude" : -38.342267
   },
   {
-    "key" : "SP",
-    "name" : "São Paulo",
-    "latitude" : -23.5329,
-    "longitude" : -46.6395
+    "key" : "IM",
+    "name" : "IMETAME - MACAÉ",
+    "latitude" : -22.2983,
+    "longitude" : -41.7206
   },
   {
     "key" : "IP",
